@@ -22,5 +22,5 @@ Vector Space Models of Semantics </a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/v(10).pdf" style="text-decoration:none;">Design of Search Engine using Vector Space Model for Personalized Search </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/v(11).pdf" style="text-decoration:none;">Design and Implementation of Search Engine Using Vector Space Model for Personalized Search</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/v(12).pdf" style="text-decoration:none;">A vector space search engine for Web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vector-Search-Engine-Papers/blob/master/v(12).pdf" style="text-decoration:none;">Efficient Similarity Search on Vector Sets</a></li>
 </ul>
